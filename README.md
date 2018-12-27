@@ -1,9 +1,6 @@
-# Hello-World
-
 HI All,
 
-I'm Raghu, I like to learn Java Coding. Adventurous person.
-Currently into Payment industry. 
+I'm Raghu, currently working on SpringBoot Microservices, Apache Kafka, CICD, AWS. 
 
 Thanks
 Raghu
